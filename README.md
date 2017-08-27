@@ -1,5 +1,5 @@
 # OpenCVtest
-OpenCV using QT5 (C++)
+OpenCV using QT Creator (C++)
 Reading and displaying image.
 
 Change image path, if necessary, see mainwindow.cpp 
