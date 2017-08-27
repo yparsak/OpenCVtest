@@ -36,6 +36,7 @@ FORMS += \
 
 INCLUDEPATH += C:\opencv\build\include
 
+
 LIBS += C:\opencv-build\bin\libopencv_core330.dll
 LIBS += C:\opencv-build\bin\libopencv_highgui330.dll
 LIBS += C:\opencv-build\bin\libopencv_imgcodecs330.dll
